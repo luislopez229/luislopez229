@@ -1,4 +1,4 @@
-### Recopilación de todo el código que haga si me acuerdo de subirlo.
+### Recopilación de las prácticas de Programación.
 
 <!--
 **luislopez229/luislopez229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
