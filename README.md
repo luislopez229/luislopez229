@@ -3,7 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=luislopez229&color=orange&label=Visitas+al+perfil&style=flat-square)
 
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <!--
 **luislopez229/luislopez229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
